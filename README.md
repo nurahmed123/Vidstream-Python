@@ -36,4 +36,4 @@ client2.start_stream()
 client3.start_stream()
 ```
 
-Check out: https://www.youtube.com/c/NeuralNine
+Check out: youtube.com/channel/UC2TmzHkWeKpEXnYxRAHdjIQ
